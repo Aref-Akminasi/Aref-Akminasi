@@ -2,6 +2,6 @@
   <!-- - 👀 I’m interested in ... -->
   <!-- - 🌱 I’m currently learning ... -->
   <!--💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me
-  [LinkedIn](https://www.linkedin.com/in/aref-akminasi-91412b207/)
+- 📫 How to reach me \
+  [LinkedIn](https://www.linkedin.com/in/aref-akminasi-91412b207/) \
   [Twitter](https://twitter.com/aref_akminasi)
