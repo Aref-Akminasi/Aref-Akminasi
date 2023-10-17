@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Aref Akminasi 
-Committed to Front-end development and exceptional user experiences, I'm a Communication & Multi-media Design graduate based in The Hague, Netherlands 🇳🇱
+Committed to Front-end development and exceptional user experiences, I'm a Communication & Multi-media Design graduate based in The Hague, Netherlands
   <!-- - 👀 I’m interested in ... -->
   <!-- - 🌱 I’m currently learning ... -->
   <!--💞️ I’m looking to collaborate on ... -->
