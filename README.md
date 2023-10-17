@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Aref Akminasi 
-I'm a committed front-end developer based in The Hague, Netherlands. At 23, I got my bachelor's in Communication & Multi-media Design from The Hague University. I love learning, collaborating, and my strong planning skills are often acknowledged at work 📝. Apart from coding, I enjoy photography 📷, gym workouts 🏋️‍♀️, and reading 📖.
+Committed to Front-end development and exceptional user experiences, I'm a Communication & Multi-media Design graduate based in The Hague, Netherlands.
   <!-- - 👀 I’m interested in ... -->
   <!-- - 🌱 I’m currently learning ... -->
   <!--💞️ I’m looking to collaborate on ... -->
