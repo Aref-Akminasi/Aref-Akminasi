@@ -4,6 +4,6 @@ I'm a committed front-end developer based in The Hague, Netherlands. At 23, I go
   <!-- - 🌱 I’m currently learning ... -->
   <!--💞️ I’m looking to collaborate on ... -->
 ## 📫 How to reach me 
-- [Portfolio website](https://www.arefakminasi.com)
+- [Portfolio website](arefakminasi.com)
 - [LinkedIn](https://www.linkedin.com/in/aref-akminasi-91412b207/)
 - [Twitter](https://twitter.com/aref_akminasi)
