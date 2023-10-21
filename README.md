@@ -16,7 +16,6 @@ Committed to Front-end development and exceptional user experiences, I'm a Commu
 - [UI elements](https://aref-akminasi.github.io/ui-elements-docs/)
 
 ## 📫 How to reach me 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aref-akminasi-91412b207/)](https://www.linkedin.com/in/aref-akminasi-91412b207/)
-- [Portfolio website](https://arefakminasi.com/contact)
-- [LinkedIn](https://www.linkedin.com/in/aref-akminasi-91412b207/)
-- [Twitter](https://twitter.com/aref_akminasi)
+[![Portfolio website badge](https://img.shields.io/badge/Portfolio%20Website-18af7a)](https://arefakminasi.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aref-akminasi-91412b207/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/aref_akminasi)
