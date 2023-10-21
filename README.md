@@ -5,7 +5,7 @@ Committed to Front-end development and exceptional user experiences, I'm a Commu
 - ☕ I love coffee
 - 🌱 I'm currently learning more about Redux and Next.js
 - 🤔 Always open for oppertunities
-- 📫 How to reach me: arefakminasi@gmail.com
+- 📫 Email: arefakminasi@gmail.com
 - 📝[Resume](https://drive.google.com/file/d/15IfID2lmb-qE7tIH_XzHWcUxbLX1U_Oi/view)
 
 ## 💻 Some live demos of my projects
@@ -19,3 +19,4 @@ Committed to Front-end development and exceptional user experiences, I'm a Commu
 [![Portfolio website badge](https://img.shields.io/badge/Portfolio%20Website-18af7a)](https://arefakminasi.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aref-akminasi-91412b207/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/aref_akminasi)
+
