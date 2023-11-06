@@ -6,7 +6,7 @@ Committed to Front-end development and exceptional user experiences, I'm a Commu
 - 🌱 I'm currently learning more about Redux and Node.js
 - 🤔 Always open for opportunities
 - 📫 Email: arefakminasi@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/15IfID2lmb-qE7tIH_XzHWcUxbLX1U_Oi/view)
+- 📝[Resume](https://drive.google.com/file/d/1K_3gUEUn5A68jndEPwwoIO6JZFdYDEcJ/view)
 
 ## 💻 Some live demos of my projects
 - [Portfolio website](https://arefakminasi.com)
