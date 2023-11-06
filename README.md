@@ -15,7 +15,7 @@ Committed to Front-end development and exceptional user experiences, I'm a Commu
 - [Quizify](https://aref-akminasi.github.io/quizify/)
 - [Arch Scape](https://aref-akminasi.github.io/arch-scape/)
 - [UI elements](https://aref-akminasi.github.io/ui-elements-docs/)
-- [MAT Town]((https://aref-akminasi.github.io/minor-showcase/)
+- [MAT Town](https://aref-akminasi.github.io/minor-showcase/)
 
 ## 📫 How to reach me 
 [![Portfolio website badge](https://img.shields.io/badge/Portfolio%20Website-18af7a)](https://arefakminasi.com/)
