@@ -4,7 +4,7 @@ Committed to Front-end development and exceptional user experiences, I'm a Commu
 **Something about me**
 - ☕ I love coffee
 - 🌱 I'm currently learning more about Redux and Node.js
-- 🤔 Always open for opportunities
+- 😃 Always open for opportunities
 - 📫 Email: arefakminasi@gmail.com
 - 📝[Resume](https://drive.google.com/file/d/1K_3gUEUn5A68jndEPwwoIO6JZFdYDEcJ/view)
 
