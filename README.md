@@ -9,7 +9,6 @@ Committed to Front-end development and exceptional user experiences, I'm a Commu
 - 📝[Resume](https://drive.google.com/file/d/1K_3gUEUn5A68jndEPwwoIO6JZFdYDEcJ/view)
 
 ## 💻 Some live demos of my projects
-- [Portfolio website](https://arefakminasi.com)
 - [Matsu Sushi](https://matsu-sushi-9ec4b.web.app/)
 - [Notes Nest](https://aref-akminasi.github.io/notes-nest/)
 - [Quizify](https://aref-akminasi.github.io/quizify/)
